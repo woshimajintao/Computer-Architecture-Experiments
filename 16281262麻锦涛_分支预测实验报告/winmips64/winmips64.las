@@ -1,0 +1,1 @@
+C:\Users\Administrator\Desktop\สตั้5\winmips64\incre1.s
